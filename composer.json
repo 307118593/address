@@ -1,6 +1,6 @@
 {
     "name": "yiqitong/address",
-    "type": "l",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
@@ -14,5 +14,5 @@
             "Address\\": "src/"
         }
     },
-
+    "description": "address"
 }
