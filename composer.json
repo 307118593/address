@@ -11,17 +11,17 @@
     ],
 
 
-
-
-    "require": {
-        "php": ">=7.0"
-    },
-
-
-
     "autoload": {
         "psr-4": {
             "Address\\": "src/"
         }
+    },
+
+    "require": {
+        "php": ">=7.0"
     }
+
+
+
+
 }
