@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40994642-228c-4dd8-8059-706ac4ab42b4" name="默认更改列表" comment="" />
+    <list default="true" id="40994642-228c-4dd8-8059-706ac4ab42b4" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
     </execution>
   </component>
   <component name="ProjectId" id="1kB6tj6FoKQKuaafOSiIToLqs6d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -61,6 +67,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="609" y="225" key="CommitChangelistDialog2" timestamp="1605175231398">
+      <screen x="0" y="23" width="2048" height="1200" />
+    </state>
+    <state x="609" y="225" key="CommitChangelistDialog2/2048.23.1920.1057/0.23.2048.1200@0.23.2048.1200" timestamp="1605175231398" />
     <state x="842" y="553" key="NewPhpFileDialog" timestamp="1605165302216">
       <screen x="0" y="23" width="2048" height="1200" />
     </state>
