@@ -70,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605176808999</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ss">
+      <created>1605177297423</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605177297423</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,10 +88,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="ss" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="608" y="224" key="CommitChangelistDialog2" timestamp="1605176808753">
+    <state x="608" y="224" key="CommitChangelistDialog2" timestamp="1605177297194">
       <screen x="0" y="23" width="2048" height="1200" />
     </state>
-    <state x="608" y="224" key="CommitChangelistDialog2/2048.23.1920.1057/0.23.2048.1200@0.23.2048.1200" timestamp="1605176808753" />
+    <state x="608" y="224" key="CommitChangelistDialog2/2048.23.1920.1057/0.23.2048.1200@0.23.2048.1200" timestamp="1605177297194" />
     <state x="842" y="553" key="NewPhpFileDialog" timestamp="1605165302216">
       <screen x="0" y="23" width="2048" height="1200" />
     </state>
