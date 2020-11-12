@@ -14,7 +14,7 @@ class AddressTransform
             co(
                 function () use ($channel, $code,$out_type) {
                     $out_id = Db::table("comm_address_binding")->where("out_address_type", $out_type)
-                        ->where("address_id", $code[1])->value("out_address_id");
+                        ->where("address_id", $code[1])->value("out_address_id")??0;
                     $res = [$code[0], $out_id];
                     $channel->push($res);
                 }

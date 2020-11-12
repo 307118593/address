@@ -9,14 +9,11 @@
             "email": "307118593@qq.com"
         }
     ],
-
-
     "autoload": {
         "psr-4": {
             "Address\\": "src/"
         }
     },
-
     "require": {
         "php": ">=7.0"
     }
