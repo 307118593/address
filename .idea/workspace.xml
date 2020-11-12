@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40994642-228c-4dd8-8059-706ac4ab42b4" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AddressTransform.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +124,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="ss" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2048" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605189918052">
+      <screen x="2048" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2048" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/2048.23.1920.1057/0.23.2048.1200@2048.23.1920.1057" timestamp="1605189918052" />
+    <state x="2746" y="396" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1605189889695">
+      <screen x="2048" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2746" y="396" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/2048.23.1920.1057/0.23.2048.1200@2048.23.1920.1057" timestamp="1605189889695" />
     <state x="2618" y="200" key="CommitChangelistDialog2" timestamp="1605180107394">
       <screen x="2048" y="23" width="1920" height="1057" />
     </state>
