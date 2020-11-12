@@ -8,7 +8,6 @@
             "email": "307118593@qq.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
