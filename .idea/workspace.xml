@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40994642-228c-4dd8-8059-706ac4ab42b4" name="默认更改列表" comment="AddressTransform init">
+    <list default="true" id="40994642-228c-4dd8-8059-706ac4ab42b4" name="默认更改列表" comment="demofoo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,16 +119,34 @@
       <option name="project" value="LOCAL" />
       <updated>1605190098420</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="demofoo">
+      <created>1605191787376</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605191787376</updated>
+    </task>
+    <task id="LOCAL-00010" summary="init">
+      <created>1605192011740</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605192011740</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="ss" />
     <MESSAGE value="AddressTransform init" />
-    <option name="LAST_COMMIT_MESSAGE" value="AddressTransform init" />
+    <MESSAGE value="AddressTransform demofoo" />
+    <MESSAGE value="demofoo" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2048" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605189918052">
@@ -139,11 +157,11 @@
       <screen x="2048" y="23" width="1920" height="1057" />
     </state>
     <state x="2746" y="396" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/2048.23.1920.1057/0.23.2048.1200@2048.23.1920.1057" timestamp="1605189889695" />
-    <state x="2469" y="191" key="CommitChangelistDialog2" timestamp="1605190456271">
+    <state x="2469" y="191" key="CommitChangelistDialog2" timestamp="1605192011474">
       <screen x="2048" y="23" width="1920" height="1057" />
     </state>
     <state x="608" y="224" key="CommitChangelistDialog2/2048.23.1920.1057/0.23.2048.1200@0.23.2048.1200" timestamp="1605177297194" />
-    <state x="2469" y="191" key="CommitChangelistDialog2/2048.23.1920.1057/0.23.2048.1200@2048.23.1920.1057" timestamp="1605190456271" />
+    <state x="2469" y="191" key="CommitChangelistDialog2/2048.23.1920.1057/0.23.2048.1200@2048.23.1920.1057" timestamp="1605192011474" />
     <state x="2777" y="442" width="461" height="245" key="ComposerInitDialogKey" timestamp="1605180049363">
       <screen x="2048" y="23" width="1920" height="1057" />
     </state>

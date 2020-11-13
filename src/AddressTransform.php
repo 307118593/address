@@ -6,6 +6,14 @@ use Hyperf\DbConnection\Db;
 class AddressTransform
 {
 
+    /**
+     * Note:高效获取三方地址编码
+     * Author: Song
+     * Date: 2020/11/13
+     * @param $codes
+     * @param $out_type
+     * @return array|string
+     */
     protected function getOutAddressCode($codes,$out_type)
     {
         $count = count($codes);
@@ -76,7 +84,13 @@ class AddressTransform
     }
 
 
-
+    /**
+     * Note:解决参数
+     * Author: Song
+     * Date: 2020/11/13
+     * @param string $local_address_codes
+     * @return array|bool
+     */
     protected function resolveLocalCodes(string $local_address_codes)
     {
         $codes = explode("_", $local_address_codes);
@@ -94,5 +108,19 @@ class AddressTransform
             $sort[] = [$k, $code];
         }
         return $sort;
+    }
+
+    /**
+     * Note:获取地址列表；获取顶级地址列表parent_id传0
+     * Author: Song
+     * Date: 2020/11/13
+     * @param $parent_id
+     * @return mixed
+     */
+    public function getAddressList($parent_id)
+    {
+        $field = ['id','level','code','name'];
+        $address_list = Db::table('comm_address')->where(['parent_id'=>$parent_id])->select($field)->get();
+        return $address_list;
     }
 }
